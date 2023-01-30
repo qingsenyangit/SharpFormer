@@ -49,7 +49,7 @@ python setup.py develop --no_cuda_ext
 
 
 * eval
-  * download [pretrained model](https://drive.google.com/file/d/1dw8PKVkLfISzNtUu3gqGh83NBO83ZQ5n/view?usp=sharing) to ./experiments/pretrained_models/SharpFormer-GoPro.pth
+  * download [pretrained model](https://drive.google.com/file/d/1oZQbX59rRp_llppTM-AEHTfoMlZjlgkA/view?usp=sharing) to ./experiments/GoPro/models/SharpFormer-GoPro.pth
   * ```python basicsr/test.py -opt options/test/GoPro/SharpFormer-GoPro.yml  ```
   
 * train

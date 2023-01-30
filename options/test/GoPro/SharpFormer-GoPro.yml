@@ -27,7 +27,7 @@ network_g:
 
 # path
 path:
-  pretrain_network_g: ./experiments/GoPro/models/net_g_latest.pth
+  pretrain_network_g: ./experiments/GoPro/models/SharpFormer-GoPro.pth
   strict_load_g: true
   resume_state: ~
 
