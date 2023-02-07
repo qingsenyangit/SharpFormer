@@ -1,9 +1,3 @@
-SharpFormer: Learning Local Feature Preserving Global Representations for Image Deblurring
----
-#### Qingsen Yan, Dong Gong, Pei Wang, Zhen Zhang, Yanning Zhang, and Javen Qinfeng Shi
-
-
-
 
 ### Installation
 
